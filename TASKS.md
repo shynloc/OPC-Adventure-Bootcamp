@@ -2,7 +2,7 @@
 
 ## Manuscript
 
-- [ ] 序言
+- [x] 序言
 - [ ] 第一章：先认识自己，再谈 OPC
 - [ ] 第二章：学会和 AI 一起工作
 - [ ] 第三章：给你的 OPC 一个名字
@@ -26,14 +26,14 @@
 
 ---
 
+## 已完成
+
+- [x] 序言 —— `manuscript/00-preface.md`（2026-09-19 定稿：无插图需求，纯文本章节）
+
 ## 当前进行中
 
-**序言 — Draft v0.1 已完成，等待作者反馈**
+**第一章：先认识自己，再谈 OPC — Phase 1: Discussion**
 
-- [x] Discussion（10 个问题已完成，访谈原始转写见 `research/chapter-00/interviews/`，本地保存不入库）
-- [x] 术语与事实核验（OpenAI Codex / Claude Code / Gemini Nano Banana / NotebookLM / 截拳道引文均已核实来源）
-- [x] 结构大纲已确认
-- [x] Draft v0.1 → `manuscript/00-preface.md`
-- [ ] 作者反馈 / Revision
-- [ ] Final Edit
-- [ ] Definition of Done 全部勾选后，`[ ] 序言` → `[x] 序言`
+核心问题：如果连自己喜欢怎样工作都不知道，AI 又怎么可能帮助你建立属于自己的事业？
+
+尚未与作者展开讨论，未创建 `manuscript/01-personal-operating-system.md`。讨论问题清单在对话中与作者同步。
