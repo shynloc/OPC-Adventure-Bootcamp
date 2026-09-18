@@ -28,6 +28,12 @@
 
 ## 当前进行中
 
-**序言 — Phase 1: Discussion**
+**序言 — Draft v0.1 已完成，等待作者反馈**
 
-见 PROJECT.md 第 19 节的 10 个讨论问题。尚未与作者完成讨论，未创建 `manuscript/00-preface.md`。
+- [x] Discussion（10 个问题已完成，访谈原始转写见 `research/chapter-00/interviews/`，本地保存不入库）
+- [x] 术语与事实核验（OpenAI Codex / Claude Code / Gemini Nano Banana / NotebookLM / 截拳道引文均已核实来源）
+- [x] 结构大纲已确认
+- [x] Draft v0.1 → `manuscript/00-preface.md`
+- [ ] 作者反馈 / Revision
+- [ ] Final Edit
+- [ ] Definition of Done 全部勾选后，`[ ] 序言` → `[x] 序言`
