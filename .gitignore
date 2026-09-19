@@ -2,3 +2,6 @@
 # Contains unfiltered personal & business detail not meant for the public repo.
 # Distilled, publishable excerpts live in manuscript/ instead.
 research/**/interviews/*raw*
+
+# macOS
+.DS_Store

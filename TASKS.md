@@ -28,12 +28,20 @@
 
 ## 已完成
 
-- [x] 序言 —— `manuscript/00-preface.md`（2026-09-19 定稿：无插图需求，纯文本章节）
+- [x] 序言：`manuscript/00-preface.md`（2026-09-19 定稿，无插图需求，纯文本章节）
 
 ## 当前进行中
 
-**第一章：先认识自己，再谈 OPC — Phase 1: Discussion**
+**第一章：先认识自己，再谈 OPC — Draft v0.1 已完成，等待作者反馈**
 
 核心问题：如果连自己喜欢怎样工作都不知道，AI 又怎么可能帮助你建立属于自己的事业？
 
-尚未与作者展开讨论，未创建 `manuscript/01-personal-operating-system.md`。讨论问题清单在对话中与作者同步。
+- [x] Discussion（作者直接提供完整初稿，跳过口述讨论环节）
+- [x] 编辑判断确认（隐私边界、行文调性、与第二章的分工、商业验证范围边界均已和作者确认）
+- [x] 结构与风格修订（对齐序言调性，见 PROJECT.md 第 9 节"调性参考范例"）
+- [x] Draft v0.1 → `manuscript/01-personal-operating-system.md`
+- [x] 配套资产拆分 → `prompts/chapter-01-self-discovery-opener.md`、`templates/personal-whitepaper-template.md`
+- [x] 插图落位（9 张，见 `assets/chapter-01/`，已按内容对应到各小节；ACKS 品牌视觉与本章叙事时间线的关系待作者确认，Prompt 存档待补）
+- [ ] 作者反馈 / Revision
+- [ ] Final Edit
+- [ ] Definition of Done 全部勾选后，`[ ] 第一章` → `[x] 第一章`
