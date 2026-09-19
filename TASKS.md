@@ -3,7 +3,7 @@
 ## Manuscript
 
 - [x] 序言
-- [ ] 第一章：先认识自己，再谈 OPC
+- [x] 第一章：先认识自己，再谈 OPC
 - [ ] 第二章：学会和 AI 一起工作
 - [ ] 第三章：给你的 OPC 一个名字
 - [ ] 第四章：让 AI 看懂你的审美
@@ -29,19 +29,14 @@
 ## 已完成
 
 - [x] 序言：`manuscript/00-preface.md`（2026-09-19 定稿，无插图需求，纯文本章节）
+- [x] 第一章：`manuscript/01-personal-operating-system.md`（2026-09-19 定稿。作者提供初稿 → 调性/结构编辑 → 9 张插图落位 → 作者确认"内容暂时没有问题，暂无修改"。配套 `prompts/chapter-01-self-discovery-opener.md`、`templates/personal-whitepaper-template.md`）
 
 ## 当前进行中
 
-**第一章：先认识自己，再谈 OPC — Draft v0.1 已完成，等待作者反馈**
+**第二章：学会和 AI 一起工作 — Phase 1: Discussion**
 
-核心问题：如果连自己喜欢怎样工作都不知道，AI 又怎么可能帮助你建立属于自己的事业？
+核心问题：为什么很多人用了很久 AI，AI 仍然不懂自己？重点不是 Prompt Engineering，是 AI Collaboration。
 
-- [x] Discussion（作者直接提供完整初稿，跳过口述讨论环节）
-- [x] 编辑判断确认（隐私边界、行文调性、与第二章的分工、商业验证范围边界均已和作者确认）
-- [x] 结构与风格修订（对齐序言调性，见 PROJECT.md 第 9 节"调性参考范例"）
-- [x] Draft v0.1 → `manuscript/01-personal-operating-system.md`
-- [x] 配套资产拆分 → `prompts/chapter-01-self-discovery-opener.md`、`templates/personal-whitepaper-template.md`
-- [x] 插图落位（9 张，见 `assets/chapter-01/`，已按内容对应到各小节，基本视为终稿；ACKS 是作者本人 OPC/IP，品牌元素有意注入插图作防盗用印记，说明见 `assets/chapter-01/README.md`；生成方式和方法论留给第六章展开）
-- [ ] 作者反馈 / Revision
-- [ ] Final Edit
-- [ ] Definition of Done 全部勾选后，`[ ] 第一章` → `[x] 第一章`
+尚未开始讨论，未创建 `manuscript/02-ai-collaboration.md`。
+
+注意：第一章已经深入讲过"AI 不是裁判""50:50 原则""多轮迭代"，第二章不需要重复这些，应该往更具体的协作机制走（上下文、目标与限制的描述、反馈如何变成长期规则、Memory / Project / Local Files 的分工、项目级 Instructions），细节见 PROJECT.md 第二章大纲。
