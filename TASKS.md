@@ -41,7 +41,7 @@
 - [x] 结构与风格修订（对齐序言调性，见 PROJECT.md 第 9 节"调性参考范例"）
 - [x] Draft v0.1 → `manuscript/01-personal-operating-system.md`
 - [x] 配套资产拆分 → `prompts/chapter-01-self-discovery-opener.md`、`templates/personal-whitepaper-template.md`
-- [x] 插图落位（9 张，见 `assets/chapter-01/`，已按内容对应到各小节；ACKS 品牌视觉与本章叙事时间线的关系待作者确认，Prompt 存档待补）
+- [x] 插图落位（9 张，见 `assets/chapter-01/`，已按内容对应到各小节，基本视为终稿；ACKS 是作者本人 OPC/IP，品牌元素有意注入插图作防盗用印记，说明见 `assets/chapter-01/README.md`；生成方式和方法论留给第六章展开）
 - [ ] 作者反馈 / Revision
 - [ ] Final Edit
 - [ ] Definition of Done 全部勾选后，`[ ] 第一章` → `[x] 第一章`
